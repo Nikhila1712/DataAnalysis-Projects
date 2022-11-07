@@ -18,7 +18,7 @@ In this project, I select a salary dataset for data scientists and use NumPy and
 Experimenting with various regression, K-means Clustering models try to arrive at the most accurate prediction of the fuel consumption and CO2 emission of cars.
 
 On Jupyter notebooks, analysis is performed using the Python Scikit-learn module. Using residual MSE, mean absolute error, R-squared value, and explained variance, the accuracy of each model is evaluated.
-# Heart Disease Analysis
+# 3. Heart Disease Analysis
 A variety of heart-related disorders are referred to as heart diseases. Blood vessel illnesses, like coronary artery disease, and heart rhythm issues are included under the general term "heart disease."  The term "heart disease" is often used interchangeably with the term "cardiovascular disease". Narrowed or obstructed blood arteries are the hallmark of illnesses known as cardiovascular disease, which can cause a heart attack, chest discomfort, or stroke. A healthy lifestyle can prevent or treat any sort of heart disease.
 
 # Objectives
